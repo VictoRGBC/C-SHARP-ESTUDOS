@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Avulsos\\Produtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5E78AB-620D-41C7-9FDF-0C8915901C0D}|Produtos\\Produtos.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\estudos c#\\avulsos\\produtos\\produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5E78AB-620D-41C7-9FDF-0C8915901C0D}|Produtos\\Produtos.csproj|solutionrelative:produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5E78AB-620D-41C7-9FDF-0C8915901C0D}|Produtos\\Produtos.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\estudos c#\\avulsos\\produtos\\produtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5E78AB-620D-41C7-9FDF-0C8915901C0D}|Produtos\\Produtos.csproj|solutionrelative:produtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Avulsos\\Produtos\\Produtos\\Product.cs",
+              "RelativeDocumentMoniker": "Produtos\\Product.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Avulsos\\Produtos\\Produtos\\Product.cs*",
+              "RelativeToolTip": "Produtos\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T22:34:14.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Avulsos\\Produtos\\Produtos\\Program.cs",
+              "RelativeDocumentMoniker": "Produtos\\Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Avulsos\\Produtos\\Produtos\\Program.cs*",
+              "RelativeToolTip": "Produtos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T22:33:06.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

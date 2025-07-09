@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\ExercicoFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\ExercicoFixacao1.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\ExercicoFixacao1.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\ExercicoFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\bin\Debug\net8.0\ExercicoFixacao1.exe
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\bin\Debug\net8.0\ExercicoFixacao1.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\bin\Debug\net8.0\ExercicoFixacao1.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\bin\Debug\net8.0\ExercicoFixacao1.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\bin\Debug\net8.0\ExercicoFixacao1.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\ExercicoFixacao1.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\refint\ExercicoFixacao1.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\ExercicoFixacao1.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\ExercicoFixacao1.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\ExercicoFixacao1\ExercicoFixacao1\obj\Debug\net8.0\ref\ExercicoFixacao1.dll

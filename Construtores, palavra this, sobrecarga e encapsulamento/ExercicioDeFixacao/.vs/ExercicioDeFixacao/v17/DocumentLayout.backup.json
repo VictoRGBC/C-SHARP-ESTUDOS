@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\estudos c#\\construtores, palavra this, sobrecarga e encapsulamento\\exerciciodefixacao\\exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\estudos c#\\construtores, palavra this, sobrecarga e encapsulamento\\exerciciodefixacao\\exerciciodefixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ExercicioDeFixacao\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\ContaBancaria.cs*",
+              "RelativeToolTip": "ExercicioDeFixacao\\ContaBancaria.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:10:33.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioDeFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
+              "RelativeToolTip": "ExercicioDeFixacao\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:10:34.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

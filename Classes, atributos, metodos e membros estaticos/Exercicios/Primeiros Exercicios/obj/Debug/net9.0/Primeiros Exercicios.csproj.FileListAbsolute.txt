@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\Primeiros Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\Primeiros Exercicios.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\Primeiros Exercicios.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\Primeiros Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\bin\Debug\net9.0\Primeiros Exercicios.exe
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\bin\Debug\net9.0\Primeiros Exercicios.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\bin\Debug\net9.0\Primeiros Exercicios.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\bin\Debug\net9.0\Primeiros Exercicios.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\bin\Debug\net9.0\Primeiros Exercicios.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\Primeiros Exercicios.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\refint\Primeiros Exercicios.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\Primeiros Exercicios.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\Primeiros Exercicios.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\Exercicios\Primeiros Exercicios\obj\Debug\net9.0\ref\Primeiros Exercicios.dll

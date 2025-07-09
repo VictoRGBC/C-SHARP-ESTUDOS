@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Recapitula\u00E7\u00E3o Logica de Progama\u00E7\u00E3o\\Recap_Logica\\ExerciciosPropostosPT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CF157-558F-4B44-AE02-6453145034CE}|ExerciciosPropostosPT1\\ExerciciosPropostosPT1.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\estudos c#\\recapitula\u00E7\u00E3o logica de progama\u00E7\u00E3o\\recap_logica\\exerciciospropostospt1\\exerciciospropostospt1\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CF157-558F-4B44-AE02-6453145034CE}|ExerciciosPropostosPT1\\ExerciciosPropostosPT1.csproj|solutionrelative:exerciciospropostospt1\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex2.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Recapitula\u00E7\u00E3o Logica de Progama\u00E7\u00E3o\\Recap_Logica\\ExerciciosPropostosPT1\\ExerciciosPropostosPT1\\Ex2.cs",
+              "RelativeDocumentMoniker": "ExerciciosPropostosPT1\\Ex2.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Recapitula\u00E7\u00E3o Logica de Progama\u00E7\u00E3o\\Recap_Logica\\ExerciciosPropostosPT1\\ExerciciosPropostosPT1\\Ex2.cs",
+              "RelativeToolTip": "ExerciciosPropostosPT1\\Ex2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T23:27:22.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

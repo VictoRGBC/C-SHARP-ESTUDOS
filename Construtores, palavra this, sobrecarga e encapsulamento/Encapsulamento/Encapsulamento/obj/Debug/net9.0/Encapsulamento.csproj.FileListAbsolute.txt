@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net9.0\Encapsulamento.exe
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net9.0\Encapsulamento.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net9.0\Encapsulamento.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net9.0\Encapsulamento.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net9.0\Encapsulamento.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\Encapsulamento.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\refint\Encapsulamento.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\Encapsulamento.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\Encapsulamento.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Construtores, palavra this, sobrecarga e encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net9.0\ref\Encapsulamento.dll

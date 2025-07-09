@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\ExerciciosPropostosPT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\ExerciciosPropostosPT1.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\ExerciciosPropostosPT1.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\ExerciciosPropostosPT1.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\bin\Debug\net8.0\ExerciciosPropostosPT1.exe
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\bin\Debug\net8.0\ExerciciosPropostosPT1.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\bin\Debug\net8.0\ExerciciosPropostosPT1.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\bin\Debug\net8.0\ExerciciosPropostosPT1.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\bin\Debug\net8.0\ExerciciosPropostosPT1.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\ExerciciosPropostosPT1.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\refint\ExerciciosPropostosPT1.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\ExerciciosPropostosPT1.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\ExerciciosPropostosPT1.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Recapitulação Logica de Progamação\Recap_Logica\ExerciciosPropostosPT1\ExerciciosPropostosPT1\obj\Debug\net8.0\ref\ExerciciosPropostosPT1.dll

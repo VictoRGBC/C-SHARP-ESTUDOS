@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\bin\Debug\net8.0\LeituraDeDadosEstoque.exe
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\bin\Debug\net8.0\LeituraDeDadosEstoque.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\bin\Debug\net8.0\LeituraDeDadosEstoque.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\bin\Debug\net8.0\LeituraDeDadosEstoque.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\bin\Debug\net8.0\LeituraDeDadosEstoque.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\LeituraDeDadosEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\LeituraDeDadosEstoque.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\LeituraDeDadosEstoque.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\LeituraDeDadosEstoque.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\LeituraDeDadosEstoque.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\refint\LeituraDeDadosEstoque.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\LeituraDeDadosEstoque.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\LeituraDeDadosEstoque.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Estudos C#\Classes, atributos, metodos e membros estaticos\ProdEst\LeituraDeDadosEstoque\LeituraDeDadosEstoque\obj\Debug\net8.0\ref\LeituraDeDadosEstoque.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExercicoDeFixacao03/1.0.0": {
+        "runtime": {
+          "ExercicoDeFixacao03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicoDeFixacao03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
