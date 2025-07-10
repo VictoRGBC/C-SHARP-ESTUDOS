@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\",
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\estudos c#\\construtores, palavra this, sobrecarga e encapsulamento\\exerciciodefixacao\\exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\construtores, palavra this, sobrecarga e encapsulamento\\exerciciodefixacao\\exerciciodefixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\estudos c#\\construtores, palavra this, sobrecarga e encapsulamento\\exerciciodefixacao\\exerciciodefixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\construtores, palavra this, sobrecarga e encapsulamento\\exerciciodefixacao\\exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FE251C-5EF9-4842-84F2-FFC168C907EE}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\ContaBancaria.cs",
               "RelativeDocumentMoniker": "ExercicioDeFixacao\\ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\ContaBancaria.cs",
               "RelativeToolTip": "ExercicioDeFixacao\\ContaBancaria.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,11 +41,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioDeFixacao\\Program.cs",
-              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Estudos C#\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Construtores, palavra this, sobrecarga e encapsulamento\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
               "RelativeToolTip": "ExercicioDeFixacao\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
