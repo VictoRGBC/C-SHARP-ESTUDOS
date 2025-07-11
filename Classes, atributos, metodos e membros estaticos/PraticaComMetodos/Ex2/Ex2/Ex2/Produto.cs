@@ -9,6 +9,21 @@ namespace Ex2
         public double Preco;
         public int Quantidade;
 
+        public Produto()
+        {
+        }
+
+        public Produto(string nome, double preco) : this()
+        {
+            Nome = nome;
+            Preco = preco;
+        }
+
+        public Produto(string nome, double preco, int quantidade) this(nome, preco)
+        {
+            Quantidade = quantidade;
+        }
+
         public double ValorTotalEmEstoque(double Preco, int Quantidade)
         {
             return Preco * Quantidade;
