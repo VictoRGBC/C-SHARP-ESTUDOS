@@ -1,0 +1,4 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Comportamento de memoria, arrays, listas\ExerciciosFixacao\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Comportamento de memoria, arrays, listas\ExerciciosFixacao\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Comportamento de memoria, arrays, listas\ExerciciosFixacao\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Comportamento de memoria, arrays, listas\ExerciciosFixacao\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache

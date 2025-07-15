@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Comportamento de memoria, arrays, listas\\ExerciciosFixacao\\Calculator\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43910EC0-29CC-4FB5-A641-DD074454ADFB}|Calculator\\Calculator.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\comportamento de memoria, arrays, listas\\exerciciosfixacao\\calculator\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43910EC0-29CC-4FB5-A641-DD074454ADFB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43910EC0-29CC-4FB5-A641-DD074454ADFB}|Calculator\\Calculator.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\comportamento de memoria, arrays, listas\\exerciciosfixacao\\calculator\\calculator\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43910EC0-29CC-4FB5-A641-DD074454ADFB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Comportamento de memoria, arrays, listas\\ExerciciosFixacao\\Calculator\\Calculator\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Comportamento de memoria, arrays, listas\\ExerciciosFixacao\\Calculator\\Calculator\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:44:01.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Comportamento de memoria, arrays, listas\\ExerciciosFixacao\\Calculator\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Comportamento de memoria, arrays, listas\\ExerciciosFixacao\\Calculator\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:42:27.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
