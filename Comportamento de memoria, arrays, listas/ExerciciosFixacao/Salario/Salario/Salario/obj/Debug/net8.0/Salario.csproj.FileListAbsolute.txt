@@ -1,0 +1,4 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Comportamento de memoria, arrays, listas\ExerciciosFixacao\Salario\Salario\Salario\obj\Debug\net8.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Comportamento de memoria, arrays, listas\ExerciciosFixacao\Salario\Salario\Salario\obj\Debug\net8.0\Salario.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Comportamento de memoria, arrays, listas\ExerciciosFixacao\Salario\Salario\Salario\obj\Debug\net8.0\Salario.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Comportamento de memoria, arrays, listas\ExerciciosFixacao\Salario\Salario\Salario\obj\Debug\net8.0\Salario.csproj.CoreCompileInputs.cache
