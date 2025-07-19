@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\bin\Debug\net8.0\Ex02.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\bin\Debug\net8.0\Ex02.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\bin\Debug\net8.0\Ex02.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\bin\Debug\net8.0\Ex02.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\bin\Debug\net8.0\Ex02.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\Ex02.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\Ex02.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\Ex02.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\refint\Ex02.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\Ex02.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\Ex02.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Ex02\obj\Debug\net8.0\ref\Ex02.dll
