@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|solutionrelative:entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\enumeracao_composicao\\ex01\\entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|solutionrelative:entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\enumeracao_composicao\\ex01\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|solutionrelative:entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\enumeracao_composicao\\ex01\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|solutionrelative:entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\enumeracao_composicao\\ex01\\entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D421297D-B2AB-4000-AA46-193956A659F6}|Ex01.csproj|solutionrelative:entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HourContract.cs",
               "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Ex01\\Entities\\HourContract.cs",
               "RelativeDocumentMoniker": "Entities\\HourContract.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Ex01\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "Entities\\Department.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "WorkerLevel.cs",
               "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Ex01\\Entities\\Enum\\WorkerLevel.cs",
               "RelativeDocumentMoniker": "Entities\\Enum\\WorkerLevel.cs",
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "Entities\\Worker.cs",
               "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Ex01\\Entities\\Worker.cs",
               "RelativeToolTip": "Entities\\Worker.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T13:05:17.376Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Ex01\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T13:02:12.413Z",
               "EditorCaption": ""

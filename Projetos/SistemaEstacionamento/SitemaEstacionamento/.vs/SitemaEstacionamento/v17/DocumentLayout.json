@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\SistemaEstacionamento\\SitemaEstacionamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85DC5C12-1116-4A96-976C-CEC1844E9E65}|SistemaEstacionamento.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\sistemaestacionamento\\sitemaestacionamento\\entities\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DC5C12-1116-4A96-976C-CEC1844E9E65}|SistemaEstacionamento.csproj|solutionrelative:entities\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DC5C12-1116-4A96-976C-CEC1844E9E65}|SistemaEstacionamento.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\sistemaestacionamento\\sitemaestacionamento\\entities\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DC5C12-1116-4A96-976C-CEC1844E9E65}|SistemaEstacionamento.csproj|solutionrelative:entities\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DC5C12-1116-4A96-976C-CEC1844E9E65}|SitemaEstacionamento.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\sistemaestacionamento\\sitemaestacionamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DC5C12-1116-4A96-976C-CEC1844E9E65}|SitemaEstacionamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\SistemaEstacionamento\\SitemaEstacionamento\\Entities\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Entities\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\SistemaEstacionamento\\SitemaEstacionamento\\Entities\\Veiculo.cs",
+              "RelativeToolTip": "Entities\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:25:08.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estacionamento.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\SistemaEstacionamento\\SitemaEstacionamento\\Entities\\Estacionamento.cs",
+              "RelativeDocumentMoniker": "Entities\\Estacionamento.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\SistemaEstacionamento\\SitemaEstacionamento\\Entities\\Estacionamento.cs",
+              "RelativeToolTip": "Entities\\Estacionamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:07:21.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\SistemaEstacionamento\\SitemaEstacionamento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\SistemaEstacionamento\\SitemaEstacionamento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:49:54.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

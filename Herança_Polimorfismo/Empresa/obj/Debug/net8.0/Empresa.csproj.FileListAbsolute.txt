@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\bin\Debug\net8.0\Empresa.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\bin\Debug\net8.0\Empresa.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\bin\Debug\net8.0\Empresa.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\bin\Debug\net8.0\Empresa.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\bin\Debug\net8.0\Empresa.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\Empresa.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\Empresa.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\refint\Empresa.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\Empresa.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\Empresa.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Empresa\obj\Debug\net8.0\ref\Empresa.dll

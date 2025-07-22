@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\refint\SistemaEstacionamento.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaEstacionamento\SitemaEstacionamento\obj\Debug\net8.0\ref\SistemaEstacionamento.dll

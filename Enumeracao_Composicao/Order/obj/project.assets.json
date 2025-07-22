@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Order\\Order.csproj",
-      "projectName": "Order",
-      "projectPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Order\\Order.csproj",
+      "projectUniqueName": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Order\\OrderPrincip.csproj",
+      "projectName": "OrderPrincip",
+      "projectPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Order\\OrderPrincip.csproj",
       "packagesPath": "C:\\Users\\galat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Enumeracao_Composicao\\Order\\obj\\",
       "projectStyle": "PackageReference",

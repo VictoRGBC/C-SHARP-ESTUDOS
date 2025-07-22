@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Order.Entities
 {
@@ -23,5 +20,13 @@ namespace Order.Entities
             BirthDate = birthDate;
         }
 
+        override public string ToString()
+        {
+            return Name 
+                + " (" 
+                + BirthDate.ToString("dd/MM/yyyy") 
+                + ") - " 
+                + Email;
+        }
     }
 }

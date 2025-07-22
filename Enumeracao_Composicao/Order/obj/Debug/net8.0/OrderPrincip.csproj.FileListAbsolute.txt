@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\bin\Debug\net8.0\OrderPrincip.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\bin\Debug\net8.0\OrderPrincip.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\bin\Debug\net8.0\OrderPrincip.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\bin\Debug\net8.0\OrderPrincip.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\bin\Debug\net8.0\OrderPrincip.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\OrderPrincip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\OrderPrincip.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\OrderPrincip.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\OrderPrincip.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\OrderPrincip.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\refint\OrderPrincip.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\OrderPrincip.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\OrderPrincip.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Enumeracao_Composicao\Order\obj\Debug\net8.0\ref\OrderPrincip.dll

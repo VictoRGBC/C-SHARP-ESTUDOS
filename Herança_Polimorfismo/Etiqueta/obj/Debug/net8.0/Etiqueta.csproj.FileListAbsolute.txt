@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\bin\Debug\net8.0\Etiqueta.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\bin\Debug\net8.0\Etiqueta.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\bin\Debug\net8.0\Etiqueta.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\bin\Debug\net8.0\Etiqueta.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\bin\Debug\net8.0\Etiqueta.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\Etiqueta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\Etiqueta.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\Etiqueta.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\Etiqueta.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\Etiqueta.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\refint\Etiqueta.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\Etiqueta.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\Etiqueta.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Etiqueta\obj\Debug\net8.0\ref\Etiqueta.dll
