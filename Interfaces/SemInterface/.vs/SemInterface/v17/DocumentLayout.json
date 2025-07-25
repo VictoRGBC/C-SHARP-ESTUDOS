@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\interfaces\\seminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|solutionrelative:services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\interfaces\\seminterface\\services\\braziltaxservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|solutionrelative:services\\braziltaxservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\interfaces\\seminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\interfaces\\seminterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|solutionrelative:entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\interfaces\\seminterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|solutionrelative:entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\interfaces\\seminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA6C5-CBA5-4491-98C1-4D52F5F125FF}|SemInterface.csproj|solutionrelative:entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "Services\\RentalService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:53:02.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrazilTaxServices.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Services\\BrazilTaxServices.cs",
+              "RelativeDocumentMoniker": "Services\\BrazilTaxServices.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Services\\BrazilTaxServices.cs",
+              "RelativeToolTip": "Services\\BrazilTaxServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:51:08.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Entities\\CarRental.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:45:48.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:42:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:41:54.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Interfaces\\SemInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T23:21:14.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

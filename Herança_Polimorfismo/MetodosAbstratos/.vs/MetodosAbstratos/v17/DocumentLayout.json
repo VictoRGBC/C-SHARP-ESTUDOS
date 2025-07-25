@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\heran\u00E7a_polimorfismo\\metodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\heran\u00E7a_polimorfismo\\metodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|solutionrelative:entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\heran\u00E7a_polimorfismo\\metodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|solutionrelative:entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\heran\u00E7a_polimorfismo\\metodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|solutionrelative:entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\heran\u00E7a_polimorfismo\\metodosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA80FC20-D9EC-4A1F-977B-8812C6541000}|MetodosAbstratos.csproj|solutionrelative:entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:26:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:26:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Entities\\Circle.cs",
+              "RelativeToolTip": "Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:26:34.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Entities\\Shape.cs",
+              "RelativeToolTip": "Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:26:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Heran\u00E7a_Polimorfismo\\MetodosAbstratos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:24:52.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

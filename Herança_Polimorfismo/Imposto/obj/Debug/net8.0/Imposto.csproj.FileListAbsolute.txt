@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\Imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\Imposto.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\Imposto.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\Imposto.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\bin\Debug\net8.0\Imposto.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\bin\Debug\net8.0\Imposto.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\bin\Debug\net8.0\Imposto.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\bin\Debug\net8.0\Imposto.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\bin\Debug\net8.0\Imposto.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\Imposto.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\refint\Imposto.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\Imposto.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\Imposto.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Herança_Polimorfismo\Imposto\obj\Debug\net8.0\ref\Imposto.dll
