@@ -1,0 +1,15 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\SemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\SemInterface.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\SemInterface.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\SemInterface.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\SemInterface.sourcelink.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\bin\Debug\net8.0\SemInterface.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\bin\Debug\net8.0\SemInterface.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\bin\Debug\net8.0\SemInterface.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\bin\Debug\net8.0\SemInterface.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\bin\Debug\net8.0\SemInterface.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\SemInterface.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\refint\SemInterface.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\SemInterface.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\SemInterface.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\SemInterface\obj\Debug\net8.0\ref\SemInterface.dll

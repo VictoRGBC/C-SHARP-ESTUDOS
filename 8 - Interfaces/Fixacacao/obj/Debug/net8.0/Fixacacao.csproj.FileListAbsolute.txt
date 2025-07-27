@@ -1,0 +1,15 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\bin\Debug\net8.0\Fixacacao.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\bin\Debug\net8.0\Fixacacao.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\bin\Debug\net8.0\Fixacacao.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\bin\Debug\net8.0\Fixacacao.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\bin\Debug\net8.0\Fixacacao.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\Fixacacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\Fixacacao.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\Fixacacao.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\Fixacacao.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\Fixacacao.sourcelink.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\Fixacacao.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\refint\Fixacacao.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\Fixacacao.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\Fixacacao.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Interfaces\Fixacacao\obj\Debug\net8.0\ref\Fixacacao.dll
