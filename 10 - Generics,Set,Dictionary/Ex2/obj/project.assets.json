@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Generics,Set,Dictionary\\Ex2\\Ex2.csproj",
+      "projectUniqueName": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\10 - Generics,Set,Dictionary\\Ex2\\Ex2.csproj",
       "projectName": "Ex2",
-      "projectPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Generics,Set,Dictionary\\Ex2\\Ex2.csproj",
+      "projectPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\10 - Generics,Set,Dictionary\\Ex2\\Ex2.csproj",
       "packagesPath": "C:\\Users\\galat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Generics,Set,Dictionary\\Ex2\\obj\\",
+      "outputPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\10 - Generics,Set,Dictionary\\Ex2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
