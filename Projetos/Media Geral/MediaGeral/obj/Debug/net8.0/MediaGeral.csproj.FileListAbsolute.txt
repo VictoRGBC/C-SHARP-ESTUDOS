@@ -1,0 +1,15 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\MediaGeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\MediaGeral.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\MediaGeral.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\MediaGeral.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\MediaGeral.sourcelink.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\bin\Debug\net8.0\MediaGeral.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\bin\Debug\net8.0\MediaGeral.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\bin\Debug\net8.0\MediaGeral.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\bin\Debug\net8.0\MediaGeral.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\bin\Debug\net8.0\MediaGeral.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\MediaGeral.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\refint\MediaGeral.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\MediaGeral.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\MediaGeral.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\Media Geral\MediaGeral\obj\Debug\net8.0\ref\MediaGeral.dll
