@@ -1,0 +1,10 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\bin\Debug\FormTeste.exe.config
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\bin\Debug\FormTeste.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\bin\Debug\FormTeste.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.csproj.AssemblyReference.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.Form1.resources
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.Properties.Resources.resources
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.csproj.GenerateResource.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.pdb
