@@ -8,3 +8,4 @@ C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Wind
 C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.csproj.CoreCompileInputs.cache
 C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.exe
 C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\13 - Aplicacao Windows Forms\FormTeste\obj\Debug\FormTeste.exe.config

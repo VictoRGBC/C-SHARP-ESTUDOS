@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4221AA3F-4C6B-4906-B34C-8F3EED9E7B7B}|FormTeste.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4221AA3F-4C6B-4906-B34C-8F3EED9E7B7B}|FormTeste.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\13 - aplicacao windows forms\\formteste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4221AA3F-4C6B-4906-B34C-8F3EED9E7B7B}|FormTeste.csproj|C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\13 - Aplicacao Windows Forms\\FormTeste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4221AA3F-4C6B-4906-B34C-8F3EED9E7B7B}|FormTeste.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\13 - Aplicacao Windows Forms\\FormTeste\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\13 - Aplicacao Windows Forms\\FormTeste\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T01:31:50.735Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\13 - Aplicacao Windows Forms\\FormTeste\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\13 - Aplicacao Windows Forms\\FormTeste\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\13 - Aplicacao Windows Forms\\FormTeste\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T00:40:55.033Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\13 - Aplicacao Windows Forms\\FormTeste\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\13 - Aplicacao Windows Forms\\FormTeste\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:31:50.735Z",
+              "EditorCaption": ""
             }
           ]
         }

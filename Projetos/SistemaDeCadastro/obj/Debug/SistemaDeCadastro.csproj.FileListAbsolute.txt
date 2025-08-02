@@ -1,0 +1,11 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe.config
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.AssemblyReference.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Form1.resources
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Properties.Resources.resources
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.GenerateResource.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.exe.config
