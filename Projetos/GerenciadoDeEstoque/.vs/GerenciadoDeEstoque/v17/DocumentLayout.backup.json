@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80084E2C-8D95-48B7-8ECE-AF34DCFB6CC3}|GerenciadoDeEstoque.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\gerenciadodeestoque\\frmcustommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80084E2C-8D95-48B7-8ECE-AF34DCFB6CC3}|GerenciadoDeEstoque.csproj|solutionrelative:frmcustommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80084E2C-8D95-48B7-8ECE-AF34DCFB6CC3}|GerenciadoDeEstoque.csproj|C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80084E2C-8D95-48B7-8ECE-AF34DCFB6CC3}|GerenciadoDeEstoque.csproj|solutionrelative:custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80084E2C-8D95-48B7-8ECE-AF34DCFB6CC3}|GerenciadoDeEstoque.csproj|C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80084E2C-8D95-48B7-8ECE-AF34DCFB6CC3}|GerenciadoDeEstoque.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCustomMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\frmCustomMessageBox.cs",
+              "RelativeDocumentMoniker": "frmCustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\frmCustomMessageBox.cs",
+              "RelativeToolTip": "frmCustomMessageBox.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:06:44.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\CustomMessageBox.cs",
+              "RelativeToolTip": "CustomMessageBox.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:58:27.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\GerenciadoDeEstoque\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:57:50.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
