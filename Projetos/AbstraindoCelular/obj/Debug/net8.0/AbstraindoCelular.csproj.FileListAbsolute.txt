@@ -1,0 +1,15 @@
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.exe
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.sourcelink.json
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\refint\AbstraindoCelular.dll
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\C-SHARP-ESTUDOS\Projetos\AbstraindoCelular\obj\Debug\net8.0\ref\AbstraindoCelular.dll

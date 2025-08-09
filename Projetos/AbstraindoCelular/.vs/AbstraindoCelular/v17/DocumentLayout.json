@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAEA6C2-5D1F-4153-A78E-49E8A6EAFF9B}|AbstraindoCelular.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\abstraindocelular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAEA6C2-5D1F-4153-A78E-49E8A6EAFF9B}|AbstraindoCelular.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAEA6C2-5D1F-4153-A78E-49E8A6EAFF9B}|AbstraindoCelular.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\abstraindocelular\\models\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAEA6C2-5D1F-4153-A78E-49E8A6EAFF9B}|AbstraindoCelular.csproj|solutionrelative:models\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAEA6C2-5D1F-4153-A78E-49E8A6EAFF9B}|AbstraindoCelular.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\abstraindocelular\\models\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAEA6C2-5D1F-4153-A78E-49E8A6EAFF9B}|AbstraindoCelular.csproj|solutionrelative:models\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAEA6C2-5D1F-4153-A78E-49E8A6EAFF9B}|AbstraindoCelular.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\c-sharp-estudos\\projetos\\abstraindocelular\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAEA6C2-5D1F-4153-A78E-49E8A6EAFF9B}|AbstraindoCelular.csproj|solutionrelative:models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\Models\\Smartphone.cs",
+              "RelativeDocumentMoniker": "Models\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\Models\\Smartphone.cs",
+              "RelativeToolTip": "Models\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:55:37.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nokia.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\Models\\Nokia.cs",
+              "RelativeDocumentMoniker": "Models\\Nokia.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\Models\\Nokia.cs",
+              "RelativeToolTip": "Models\\Nokia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:55:28.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Iphone.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\Models\\Iphone.cs",
+              "RelativeDocumentMoniker": "Models\\Iphone.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\Models\\Iphone.cs",
+              "RelativeToolTip": "Models\\Iphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:55:11.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\C-SHARP-ESTUDOS\\Projetos\\AbstraindoCelular\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:51:20.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
